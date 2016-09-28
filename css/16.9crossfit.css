@@ -342,5 +342,13 @@ body {
   color: black;
 }
 .style4 {
-	color: #FE5000
+	color: #FE5000;
+}
+.navbar-brand img {
+  width: 50%;
+}
+@media (min-width: 768px) {
+  .navbar-brand img {
+    width: 100%;
+  }
 }
